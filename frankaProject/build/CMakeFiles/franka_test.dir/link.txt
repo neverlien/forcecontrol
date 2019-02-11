@@ -1,0 +1,1 @@
+/usr/bin/g++-7    -rdynamic CMakeFiles/franka_test.dir/src/test.cpp.o  -o franka_test -Wl,-rpath,/usr/local/lib /usr/local/lib/libfranka.so.0.6.0 
